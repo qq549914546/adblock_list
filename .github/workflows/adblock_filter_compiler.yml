@@ -26,8 +26,8 @@ jobs:
 
     - name: Commit and push updated filter list
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "549914546@qq.com"
+        git config --local user.name "qq549914546"
         git add blocklist.txt
         git commit -m "Update filter list" || echo "No changes to commit"
         git push
