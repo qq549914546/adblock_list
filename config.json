@@ -10,9 +10,8 @@
         "https://filters.adtidy.org/android/filters/21_optimized.txt",
         "https://filters.adtidy.org/android/filters/22_optimized.txt",
         "https://filters.adtidy.org/android/filters/224_optimized.txt",
-        "https://adrules.top/adblock.txt",
         "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt",
         "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"
+        "https://adrules.top/adblock.txt"
     ]
 }
