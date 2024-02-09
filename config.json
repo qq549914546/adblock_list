@@ -1,17 +1,8 @@
 {
     "blocklist_urls": [
-        "https://filters.adtidy.org/android/filters/2_optimized.txt",
-        "https://filters.adtidy.org/android/filters/11_optimized.txt",
-        "https://filters.adtidy.org/android/filters/3_optimized.txt",
-        "https://filters.adtidy.org/android/filters/4_optimized.txt",
-        "https://filters.adtidy.org/android/filters/18_optimized.txt",
-        "https://filters.adtidy.org/android/filters/19_optimized.txt",
-        "https://filters.adtidy.org/android/filters/20_optimized.txt",
-        "https://filters.adtidy.org/android/filters/21_optimized.txt",
-        "https://filters.adtidy.org/android/filters/22_optimized.txt",
-        "https://filters.adtidy.org/android/filters/224_optimized.txt",
-        "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt",
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt",
-        "https://adrules.top/adblock.txt"
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+        "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
+        "https://adguardteam.github.io/HostsRegistry/assets/filter_27.txt",
+        "https://hblock.molinero.dev/hosts_adblock.txt"
     ]
 }
