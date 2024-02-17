@@ -1,7 +1,6 @@
 {
     "blocklist_urls": [
         "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
-        "https://mirror.ghproxy.com/https://github.com/AdguardTeam/HostlistsRegistry/raw/main/assets/filter_27.txt",
         "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq5460168/me/master/rules.txt",
         "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt",
         "https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AWAvenue_Ads_Rule.txt",
