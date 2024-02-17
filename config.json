@@ -1,8 +1,18 @@
 {
     "blocklist_urls": [
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+        "https://adrules.top/dns.txt",
         "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
         "https://github.com/AdguardTeam/HostlistsRegistry/raw/main/assets/filter_27.txt",
-        "https://hblock.molinero.dev/hosts_adblock.txt"
+        "https://hblock.molinero.dev/hosts_adblock.txt",
+        "https://jihulab.com/qq5460168/5460/-/raw/master/black.txt",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
+        "https://raw.hellogithub.com/hosts",
+        "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt",
+        "https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto.txt",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard-element.txt",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt",
+        
     ]
 }
