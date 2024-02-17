@@ -2,10 +2,10 @@
     "blocklist_urls": [
         "https://jihulab.com/qq5460168/5460/-/raw/master/black.txt",
         "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-        "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt",
+        "https://adrules.top/adblock.txt",
         "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
         "https://raw.hellogithub.com/hosts",
         "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt",
-        "https://lingeringsound.github.io/10007_auto/reward"
+        "https://ghproxy.net/https://raw.githubusercontent.com/pantsufan/Magisk-Ad-Blocking-Module/master/hosts"
     ]
 }
