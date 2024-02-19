@@ -2,6 +2,7 @@
     "blocklist_urls": [
         "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
         "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt",
+        "https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt",
         "https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt",
         "https://deliver.flymc.cc/rules/sophie-advanced.txt"
     ]
