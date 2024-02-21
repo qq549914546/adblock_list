@@ -1,8 +1,12 @@
 {
     "blocklist_urls": [
-        "https://anti-ad.net/adguard.txt",
-        "https://ghproxy.net/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
-        "https://filters.adtidy.org/android/filters/3_optimized.txt",
-        "https://adrules.top/adblock.txt"
+        "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku"
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows",
+        "https://ghproxy.net/https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi"
     ]
 }
