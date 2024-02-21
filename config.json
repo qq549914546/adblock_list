@@ -1,8 +1,8 @@
 {
     "blocklist_urls": [
-        "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-        "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt",
-        "https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt",
-        "https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt"
+        "https://anti-ad.net/adguard.txt",
+        "https://ghproxy.net/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
+        "https://filters.adtidy.org/android/filters/3_optimized.txt",
+        "https://adrules.top/adblock.txt"
     ]
 }
